@@ -6,11 +6,11 @@ the ui is from https://github.com/yxupy/yxupy-darktablet
 
 Future Plans: Setting up a pickup point so the weapon dosen't magically appear in your inventory :D...
 
-```Features: 30 Minute cooldown after a purchase. (You can change that in index.js/line(75))
+Features: 30 Minute cooldown after a purchase. (You can change that in index.js/line(75))
           
-          It takes money from bank not cash.
+  It takes money from bank not cash.
           
-          Has a minigame like: https://github.com/yxupy/yxupy-darktablet```
+   Has a minigame like: https://github.com/yxupy/yxupy-darktablet
 
 
 Dependencies :
